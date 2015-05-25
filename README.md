@@ -1,3 +1,11 @@
+$ rails _4.0.5_ new first_app
+で生成
+
+config/initializers/secret_token.rb
+の最終行は
+<プロジェクト名（キャメル表記）>::
+とする
+
 == README
 
 This README would normally document whatever steps are necessary to get the
